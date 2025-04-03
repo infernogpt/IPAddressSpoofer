@@ -49,6 +49,10 @@ This Application Was Made For Gorilla Tag to Ban Evade But It Can Be Used As A M
 
 This project is licensed under the MIT License.
 
+## Note
+
+Forking this project to add malicious code is strictly prohibited. Legal action will be taken if you commit this act.
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
