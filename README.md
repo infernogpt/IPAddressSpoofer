@@ -4,6 +4,11 @@ IP Switcher is a Windows Forms application that allows users to temporarily chan
 
 This Application Was Made For Gorilla Tag to Ban Evade But It Can Be Used As A Multipurpose Application.
 
+## Issues
+
+- Just like most of my projects, running as administrator is essential or it will not work. In the event that it works... congrats it works ig. But it shouldnt. Same deal with my HWID Spoofer
+
+
 ## Features
 
 - Capture and display the current IP address.
