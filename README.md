@@ -50,4 +50,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Contact
 
-For any questions or inquiries, please contact me in my group discord (https://discord.gg/elux.
+For any questions or inquiries, please contact me in my group discord (https://discord.gg/elux).
